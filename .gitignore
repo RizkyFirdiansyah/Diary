@@ -1,3 +1,3 @@
-.girognore
+.gitignore
 .env
 /venv
